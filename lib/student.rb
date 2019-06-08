@@ -5,6 +5,7 @@ end
 
 def learn(string)
   @knowledge.push(string)
+  @knowledge
 end
     
   
