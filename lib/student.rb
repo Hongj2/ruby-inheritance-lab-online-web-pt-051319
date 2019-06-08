@@ -1,6 +1,6 @@
 class Student < User
   def instance_variable_get(knowledge)
-  @knowledge = []
+  @knowledge = array.new
 end
 
 def learn(string)
